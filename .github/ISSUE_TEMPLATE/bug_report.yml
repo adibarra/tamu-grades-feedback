@@ -38,12 +38,10 @@ body:
       label: What browsers?
       description: Check the browsers that you are seeing the issue on.
       options:
+        - label: Chrome/Edge
         - label: Firefox
-        - label: Chrome
         - label: Safari
-        - label: Edge
         - label: Other (include below)
-        - label: N/A
     validations:
       required: true
   - type: textarea
