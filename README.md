@@ -1,29 +1,11 @@
 <h1 align="center">
   <a href="https://grades.adibarra.com/">
-    <img src="./packages/client/public/favicon.svg" alt="Logo" height="128">
+    <img src="assets/favicon.svg" alt="Logo" height="128">
   </a>
-  <br>
-  TAMU Grades
+  <p>
+    TAMU Grades
+  </p>
 </h1>
-
-<h3 align="center"><strong>A blazing fast webapp for TAMU grade distribution analysis.</strong></h3>
-
-<p align="center">
-  <a href="https://grades.adibarra.com">
-    <img alt="Live Site" src="https://img.shields.io/website?url=https%3A%2F%2Fgrades.adibarra.com%2F&label=Live%20Site">
-  </a>
-  <a href="https://github.com/adibarra/tamu-grades/issues">
-    <img src="https://img.shields.io/github/issues/adibarra/tamu-grades" alt="issues">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/last-commit/adibarra/tamu-grades" alt="last commit">
-  </a>
-  <br />
-  <a href="#tooling">Tooling</a> •
-  <a href="#environment-setup">Environment Setup</a> •
-  <a href="#run-project">Run Project</a> •
-  <a href="#license">License</a>
-</p>
 
 ## Overview
 
